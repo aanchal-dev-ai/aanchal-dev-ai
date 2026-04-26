@@ -47,8 +47,7 @@ I share my coding journey through Instagram reels
 
 * GitHub: https://github.com/aanchal-dev-ai
 * Instagram: https://www.instagram.com/veiledvibes.diary/
-* LinkedIn: [(add your link)](https://www.linkedin.com/in/aanchalgupta29/)
-
+* LinkedIn: https://www.linkedin.com/in/aanchalgupta29/
 ---
 
 ⭐️ Building AI that actually does things, not just talks.
