@@ -42,6 +42,15 @@ I share my coding journey through Instagram reels
 * Advanced prompting
 
 ---
+## 📊 GitHub Stats
+
+![Aanchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=radical)
+
+
+---
+
 
 ## 📫 Connect with me
 
